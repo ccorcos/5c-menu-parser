@@ -1,0 +1,2476 @@
+
+
+{
+   "dates":[
+      {
+         "date":"2013-09-22",
+         "menus":[
+            {
+               "name":"CMC",
+               "meals":[
+                  {
+                     "name":"Dessert",
+                     "stations":[
+                        {
+                           "items":[
+                              " assorted cookies",
+                              " bars &#38",
+                              " cakes",
+                              " frozen yogurt &#38",
+                              " ice cream"
+                           ],
+                           "name":"sweets"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Brunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " chilaquiles"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " pesto pasta &#38",
+                              " tofu"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " carved to order prime rib with horseradish"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " scramble egg",
+                              " biscuits &#38",
+                              " gravy",
+                              " turkey sausage &#38",
+                              " bacon",
+                              " chicken &#38",
+                              " waffles",
+                              " blueberry pancake",
+                              " tarte tots",
+                              " oatmeal",
+                              " cinnamon rolls",
+                              " waffle bar &#38",
+                              " assorted breakfast breads &#38",
+                              " pastries"
+                           ],
+                           "name":"breakfast"
+                        },
+                        {
+                           "items":[
+                              " pasta express with meat balls"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " french onion beef"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " cheese &#38",
+                              " pepperoni pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " green enchiladas"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " Philly cheese steak"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " world wok"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " carne asada &#38",
+                              " chicken burritos"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " cream of broccoli"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"PITZER",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " yellow split pea and vegetable soup",
+                              " menudo"
+                           ],
+                           "name":"stocks"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Brunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " pork chile verde",
+                              " vegetable frittata",
+                              " black beans al fresco",
+                              " spanish style roasted butternut squash"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " french toast"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " omelet bar"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " pizza and pasta"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " barbecue baked beans",
+                              " herb roasted red potatoes",
+                              " barbecue chicken",
+                              " sauteed green beans",
+                              " steamed cabbage"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " yellow split pea and vegetable soup",
+                              " menudo"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " chicken tenders"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " burrito bar"
+                           ],
+                           "name":"options"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "date":"2013-09-21",
+         "menus":[
+            {
+               "name":"CMC",
+               "meals":[
+                  {
+                     "name":"Dessert",
+                     "stations":[
+                        {
+                           "items":[
+                              " assorted cookies",
+                              " bars &#38",
+                              " cakes",
+                              " frozen yogurt &#38",
+                              " ice cream"
+                           ],
+                           "name":"sweets"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Brunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " asparagus &#38",
+                              " mushroom quiche"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " vegan Caribbean stew with coconut milk"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " roasted turkey"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " scramble egg",
+                              " biscuits &#38",
+                              " gravy",
+                              " turkey sausage &#38",
+                              " bacon",
+                              " chicken &#38",
+                              " waffles",
+                              " blueberry pancake",
+                              " tarte tots",
+                              " oatmeal",
+                              " cinnamon rolls",
+                              " waffle bar &#38",
+                              " assorted breakfast breads &#38",
+                              " pastries"
+                           ],
+                           "name":"breakfast"
+                        },
+                        {
+                           "items":[
+                              " pasta express"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " beef minestrone"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " cheese &#38",
+                              " pepperoni pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " roasted vegetable bow tie pasta"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " clare monter-egg",
+                              " chili cheese fries &#38",
+                              " ranch"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " try our new fried sushi bar!"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " BBQ chicken breast with onion",
+                              " &#38",
+                              " cheddar cheese"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " vegetable minestrone"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"PITZER",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " chicken noodle soup",
+                              " cream of asparagus soup"
+                           ],
+                           "name":"stocks"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Brunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " herb baked fish",
+                              " mediterranean bow tie pasta",
+                              " rice pilaf",
+                              " steamed cauliflower"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " blueberry pancakes"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " omelet bar"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " pizza and pasta"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " grilled vegetables",
+                              " roasted beets",
+                              " marinated beef tri-tip",
+                              " mashed potatoes",
+                              " vegetable pot pie"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " chicken noodle soup",
+                              " cream of asparagus soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " chicken tenders"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " wings bar"
+                           ],
+                           "name":"options"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "date":"2013-09-20",
+         "menus":[
+            {
+               "name":"CMC",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " buffalo shrimp pizza",
+                              " cheese &#38",
+                              " pepperoni pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " chickpea casserole"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " housing tofu &#38",
+                              " vegetables"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " spicy fried",
+                              " ortega chili beef sandwich"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " world work"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " grilled mahi mahi"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " roast beef with house radish cream aujo's"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " Manhattan clam chowder/ vegan split pea"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Breakfast",
+                     "stations":[
+                        {
+                           "items":[
+                              " scramble egg",
+                              " sausage &#38",
+                              " cheese scrambled eggs",
+                              " ham &#38",
+                              " turkey sausage",
+                              " ham egg",
+                              " &#38",
+                              " cheese bagel",
+                              " French toast",
+                              " homemade potato",
+                              " oatmeal &#38",
+                              " grits",
+                              " cranberry muffin",
+                              " waffle bar &#38",
+                              " assorted breakfast breads &#38",
+                              " pastries"
+                           ],
+                           "name":"breakfast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " cheese &#38",
+                              " pepperoni pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " macaroni &#38",
+                              " cheese"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " wheat berry &#38",
+                              " roasted vegetable casserole"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " spicy fried",
+                              " shrimp taco"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " Chocolate fountain!"
+                           ],
+                           "name":"sweets"
+                        },
+                        {
+                           "items":[
+                              " picnic salad"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " New York steak"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " classic Ceaser salad &#38",
+                              " garlic bread"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " beef &#38",
+                              " garbanzo vegetable/ vegan split pea"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dessert",
+                     "stations":[
+                        {
+                           "items":[
+                              " assorted cookies",
+                              " bars &#38",
+                              " cakes",
+                              " frozen yogurt &#38",
+                              " ice cream",
+                              " Chocolate fountain!"
+                           ],
+                           "name":"sweets"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"PITZER",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " chicken enchiladas verdes",
+                              " cheese enchiladas rojas"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " beef birria",
+                              " stuffed bell peppers",
+                              " spanish rice",
+                              " stewed black beans",
+                              " cumin roasted chayote squash",
+                              " sauteed mustard greens"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " new england clam chowder",
+                              " tuscan chickpea and chard soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " carnitas tortas"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " aguas frescas"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " barbecue chicken pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " tandoori chicken",
+                              " tandoori tofu steaks",
+                              " lemon basmati rice",
+                              " garam masala roasted vegetables",
+                              " baba ghanoush"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " new england clam chowder",
+                              " tuscan chickpea and chard soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " chicken tenders"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " pasta and marinara sauce"
+                           ],
+                           "name":"options"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "date":"2013-09-16",
+         "menus":[
+            {
+               "name":"CMC",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " BBQ tofu pizza",
+                              " cheese &#38",
+                              " pepperoni pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " linguini &#38",
+                              " colorful",
+                              " rainbow swiss chard"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " Italian tofu steak",
+                              " temphe &#38",
+                              " mushroom fajita"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " spicy fries",
+                              " grill teriyaki chicken sandwich"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " World wok"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " chicken cacciatora"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " chicken burritos re-fried bean &#38",
+                              " spanish rice",
+                              " toppings"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " ham &#38",
+                              " lentil/ carrot ginger"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Breakfast",
+                     "stations":[
+                        {
+                           "items":[
+                              " scramble &#38",
+                              " spanish scrambled eggs",
+                              " turkey sausage &#38",
+                              " bacon",
+                              " sausage breakfast taco",
+                              " french toast",
+                              " hash browns",
+                              " oatmeal",
+                              " cream of rice",
+                              " low fat blueberry muffins",
+                              " waffle bar &#38",
+                              " assorted breakfast breads &#38",
+                              " pastries"
+                           ],
+                           "name":"breakfast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " cheese &#38",
+                              " pepperoni pizza",
+                              " assorted flatbread pizzas"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " stuffed zucchini with rice &#38",
+                              " cheese"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " spicy fries",
+                              " turkey reuben on rye"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " RtoR- chicken cobb salad &#38",
+                              " Caesar"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " lemon pepper steak seasoned with zest",
+                              " parsley garlic",
+                              " salt",
+                              " montreal seasoning"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " mango chicken wrap with black beans",
+                              " mango",
+                              " red onion",
+                              " &#38",
+                              " romaine tomato"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " chicken apple sausage &#38",
+                              " lentil/ carrot ginger"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"PITZER",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " chicken teriyaki pizza",
+                              " macaroni and cheese pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " california chicken",
+                              " breaded tofu steaks",
+                              " wild rice pilaf",
+                              " steamed rainbow carrots",
+                              " sauteed collard greens"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " beef barley vegetable",
+                              " miso tofu and spinach soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " california burger"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " juice bar"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " sausage and pepperoni stromboli"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " california burger"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " steamed purple cauliflower",
+                              " honey mustard beef brisket",
+                              " sweet potato and red quinoa patties",
+                              " rosemary red potatoes",
+                              " sauteed mustard greens"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " beef barley vegetable",
+                              " miso tofu and spinach soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " vegetable egg rolls"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " mongolian grill"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"MUDD",
+               "meals":[
+                  {
+                     "name":"lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              "Hamburger & Cheeseburgers",
+                              "Chicken Patties",
+                              "Black Bean Burger",
+                              "Turkey Burger",
+                              "Grilled Chicken Breast",
+                              "All Beef Hot Dog",
+                              "Grilled Cheese Sandwich",
+                              "French Fries"
+                           ],
+                           "name":"The Grill"
+                        },
+                        {
+                           "items":[
+                              "Creamy Dill Potato Salad"
+                           ],
+                           "name":"Salad Bar"
+                        },
+                        {
+                           "items":[
+                              "Cookies",
+                              "Flan",
+                              "Churros",
+                              "Brownies",
+                              "Gelatina"
+                           ],
+                           "name":"Desserts"
+                        },
+                        {
+                           "items":[
+                              "Chicken Piccata",
+                              "Vegetables",
+                              "Spaghetti"
+                           ],
+                           "name":"Chef's Corner"
+                        },
+                        {
+                           "items":[
+                              "Lima Bean & Tomato Soup",
+                              "Chunky Beef Noodle Soup",
+                              "Creamy Potato Dill Soup"
+                           ],
+                           "name":"Soup"
+                        },
+                        {
+                           "items":[
+                              "Curry Lamb"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Assorted Pizzas"
+                           ],
+                           "name":"Oven"
+                        },
+                        {
+                           "items":[
+                              "Korean Stir-fry Vegetables with tofu\u00a0 Tunisian Vegetable Stew"
+                           ],
+                           "name":"Veggie Valley"
+                        },
+                        {
+                           "items":[
+                              "Assorted Deli Cuts and Assorted Breads"
+                           ],
+                           "name":"Deli Bar"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"breakfast",
+                     "stations":[
+                        {
+                           "items":[
+                              "Apple Sauce Coffee Cake",
+                              "Chocolate Chip Muffins",
+                              "Plain Bagels"
+                           ],
+                           "name":"Hot Breads"
+                        },
+                        {
+                           "items":[
+                              "Oatmeal"
+                           ],
+                           "name":"Hot Cereal"
+                        },
+                        {
+                           "items":[
+                              "Waffle Bar with Assorted Toppings"
+                           ],
+                           "name":"Waffle Station"
+                        },
+                        {
+                           "items":[
+                              "Smoothie Bar"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Scrambled Eggs & Hard Boiled Eggs",
+                              "Buttermilk Pancakes",
+                              "Pork Sausage Patty",
+                              "Home Fried Potatoes",
+                              "Sausage Gravy\u00a0& Biscuits",
+                              "Breakfast Burrito"
+                           ],
+                           "name":"The Grille\nBreakfast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              "Quesadilla Bar",
+                              "Mexican Green Rice",
+                              "Baja Black Beans"
+                           ],
+                           "name":"The Grill"
+                        },
+                        {
+                           "items":[
+                              "Cucumber, Tomato & Onion Salad"
+                           ],
+                           "name":"Salad Bar"
+                        },
+                        {
+                           "items":[
+                              "Chocolate Chip Cookies",
+                              "Devil's Food Cake with Mocha Icing",
+                              "Dutch Crumb Apple Pie",
+                              "Orange Jell-O Parfait",
+                              "Bread Pudding with Peaches"
+                           ],
+                           "name":"Dessert Station"
+                        },
+                        {
+                           "items":[
+                              "Herb Crusted Roasted Beef",
+                              "Roasted Potatoes",
+                              "Fresh Vegetables",
+                              "Baby Carrots"
+                           ],
+                           "name":"Chef's Corner"
+                        },
+                        {
+                           "items":[
+                              "Lima Bean & Tomato Soup",
+                              "Chunky Beef Noodle Soup",
+                              "Creamy Potato Dill Soup"
+                           ],
+                           "name":"Soup"
+                        },
+                        {
+                           "items":[
+                              "Shrimp Pad Thai"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Roasted Vegetable Baguette Sub",
+                              "Turkey Bacon Melt"
+                           ],
+                           "name":"Oven"
+                        },
+                        {
+                           "items":[
+                              "Vegetable Samosa with Yogurt Sauce"
+                           ],
+                           "name":"Veggie Valley"
+                        },
+                        {
+                           "items":[
+                              "Assorted Deli Cuts & Bread"
+                           ],
+                           "name":"Deli Bar"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "date":"2013-09-17",
+         "menus":[
+            {
+               "name":"CMC",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " fetta",
+                              " tomato &#38",
+                              " spinach pizza",
+                              " cheese &#38",
+                              " pepperoni pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " roasted vegetable &#38",
+                              " grano"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " churros",
+                              " cheese quesadillas"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " little Italy"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " garlic ginger pork loin"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " grill vegetable balsamic &#38",
+                              " couscous salad"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " chili beef con carne/ potato leek"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Breakfast",
+                     "stations":[
+                        {
+                           "items":[
+                              " scramble &#38",
+                              " Denver scramble eggs",
+                              " turkey bacon &#38",
+                              " ham",
+                              " Canadian ham",
+                              " egg &#38",
+                              " cheese muffin",
+                              " buttermilk pancakes",
+                              " tarter tots",
+                              " oatmeal with cream of wheat",
+                              " pineapple muffins",
+                              " waffle bar &#38",
+                              " assorted breakfast breads &#38",
+                              " pastries"
+                           ],
+                           "name":"breakfast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " Join Us! for Turf dinner on the Mudd Quad"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " cheese &#38",
+                              " pepperoni pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " turf dinner birria tacos",
+                              " chicken tacos with onion",
+                              " cilantro",
+                              " cabbage",
+                              " salsa verde",
+                              " salsa roja"
+                           ],
+                           "name":"expo"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dessert",
+                     "stations":[
+                        {
+                           "items":[
+                              " assorted cookies",
+                              " bars &#38",
+                              " cakes",
+                              " frozen yogurt &#38",
+                              " ice cream"
+                           ],
+                           "name":"sweets"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"PITZER",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " pepperoni calzone"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " roasted beef and au jus",
+                              " zucchini pancake and red piquillo sauce",
+                              " cheddar mashed potatoes",
+                              " roasted turnips",
+                              " sauteed green beans"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " chicken vegetable soup",
+                              " roasted butternut squash soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " california burger"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " heirloom tomato salad"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " cheeseless mediterranean pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " Come visit us at the Turf Dinner"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"MUDD",
+               "meals":[
+                  {
+                     "name":"lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              "Hamburger & Cheeseburgers",
+                              "Chicken Patties",
+                              "Black Bean Burger",
+                              "Turkey Burger",
+                              "Grilled Chicken Breast",
+                              "All Beef Hot Dog",
+                              "Grilled Cheese Sandwich",
+                              "French Fries"
+                           ],
+                           "name":"The Grill"
+                        },
+                        {
+                           "items":[
+                              "Oriental Cabbage Salad"
+                           ],
+                           "name":"Salad Bar"
+                        },
+                        {
+                           "items":[
+                              "Chocolate Chip Cookies",
+                              "Dulce de Leche Pudding Cup",
+                              "Oreo Seven Layer Bar",
+                              "Cherry Jell-O Parfait",
+                              "Churros with Cinnamon Sugar"
+                           ],
+                           "name":"Desserts"
+                        },
+                        {
+                           "items":[
+                              "Tortilla \"Tuesday\"",
+                              "Pumpkin Seed Mole with Chicken & Taco Beef",
+                              "Vegetarian Pinto Beans",
+                              "Mexican Rice",
+                              "Assorted Cold Toppings"
+                           ],
+                           "name":"Chef's Corner"
+                        },
+                        {
+                           "items":[
+                              "Vegetarian Minestrone",
+                              "Chicken Tortilla Soup",
+                              "Louisianna Seafood\u00a0 Gumbo"
+                           ],
+                           "name":"Soup"
+                        },
+                        {
+                           "items":[
+                              "Donburi Chicken Over Sticky Rice"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Tuna Melt on Sourdough Bread",
+                              "Potato Chips"
+                           ],
+                           "name":"Oven"
+                        },
+                        {
+                           "items":[
+                              "Lentil Dal"
+                           ],
+                           "name":"Veggie Valley"
+                        },
+                        {
+                           "items":[
+                              "Assorted Deli Cuts and Assorted Breads"
+                           ],
+                           "name":"Deli Bar"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"breakfast",
+                     "stations":[
+                        {
+                           "items":[
+                              "Plain Bagel",
+                              "Glazed Cinnamon Roll",
+                              "Cranberry Orange Mini Scone Banana Chocolate Chip Muffins"
+                           ],
+                           "name":"Hot Breads"
+                        },
+                        {
+                           "items":[
+                              "Oatmeal"
+                           ],
+                           "name":"Hot Cereal"
+                        },
+                        {
+                           "items":[
+                              "Waffle Bar with Assorted Toppings"
+                           ],
+                           "name":"Waffle Station"
+                        },
+                        {
+                           "items":[
+                              "Smoothie Bar"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Scrambled Eggs & Hard Boiled Eggs",
+                              "Waffles",
+                              "Turkey Sausage Links",
+                              "Hash Browned Potatoes",
+                              "Sausage Gravy\u00a0& Biscuits",
+                              "English Muffin with Egg & Cheese"
+                           ],
+                           "name":"The Grille\nBreakfast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              "Burger Bar",
+                              "Chef Mike's Featured Burger",
+                              "French Fries"
+                           ],
+                           "name":"The Grill"
+                        },
+                        {
+                           "items":[
+                              "Oriental Cabbage Salad"
+                           ],
+                           "name":"Salad Bar"
+                        },
+                        {
+                           "items":[
+                              "Chocolate Chip Cookies",
+                              "Dulce de Leche Pudding Cup",
+                              "Cherry Jell-O Parfait",
+                              "Cinnamon\u00a0Toast Crunch Bars",
+                              "Cheesecake"
+                           ],
+                           "name":"Dessert Station"
+                        },
+                        {
+                           "items":[
+                              "Yankee Pot Roast",
+                              "Parsley Boiled Potatoes",
+                              "Roasted Vegetables",
+                              "Spinach with Garlic & Onions"
+                           ],
+                           "name":"Chef's Corner"
+                        },
+                        {
+                           "items":[
+                              "Vegetarian Minestrone",
+                              "Chicken Tortilla Soup",
+                              "Louisianna Seafood\u00a0 Gumbo"
+                           ],
+                           "name":"Soup"
+                        },
+                        {
+                           "items":[
+                              "Thai Green Curry with Chicken",
+                              "Jasmine Rice"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Grilled Chicken Pesto Stromboli",
+                              "Sausage & Pepper Stromboli"
+                           ],
+                           "name":"Oven"
+                        },
+                        {
+                           "items":[
+                              "Kung Pao Tofu",
+                              "Polenta Alla Funghi"
+                           ],
+                           "name":"Veggie Valley"
+                        },
+                        {
+                           "items":[
+                              "Assorted Deli Cuts & Bread"
+                           ],
+                           "name":"Deli Bar"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "date":"2013-09-18",
+         "menus":[
+            {
+               "name":"CMC",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " Hungarian nut roll pizza",
+                              " cheese &#38",
+                              " pepperoni pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " Chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " yam &#38",
+                              " chive cakes topped with smoked cheddar"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " Mongolian tofu"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " pretzels",
+                              " meat ball sandwich"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " world wok"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " stuffed chicken with Boursin cheese &#38",
+                              " cranberries"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " Cuban sandwich"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " Kansas city steal/ tofu miso &#38",
+                              " spinach"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Breakfast",
+                     "stations":[
+                        {
+                           "items":[
+                              " scramble eggs",
+                              " Spanish breakfast tacos re-fried beans",
+                              " turkey sausage links &#38",
+                              " sausage patties",
+                              " egg",
+                              " bacon &#38",
+                              " cheese croissant",
+                              " waffles",
+                              " country potato",
+                              " oatmeal &#38",
+                              " grits",
+                              " chocolate chip muffin",
+                              " waffle bar &#38",
+                              " assorted breakfast breads &#38",
+                              " pastries"
+                           ],
+                           "name":"breakfast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " cheese &#38",
+                              " pepperoni pizza",
+                              " assorted flatbread pizzas"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " Chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " greek pasta casserole"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " grill portobello mushrooms &#38",
+                              " heirloom tomatoes"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " pretzels",
+                              " mushroom veggie burger"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " sushi night!- California roll",
+                              " spicy tuna",
+                              " and avocado roll"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " turkey roll up roasted red bell"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " fiesta ranch salad"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " turkey &#38",
+                              " garbanzo/ char carrot &#38",
+                              " parsnip"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dessert",
+                     "stations":[
+                        {
+                           "items":[
+                              " assorted cookies",
+                              " bars &#38",
+                              " cakes",
+                              " frozen yogurt &#38",
+                              " ice cream"
+                           ],
+                           "name":"sweets"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"PITZER",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " california burger"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " miso glazed salmon",
+                              " vegetable rice noodle stir-fry",
+                              " steamed chinese black rice",
+                              " garlic and ginger sauteed snow peas",
+                              " roasted gold beets"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " caldo de res soup",
+                              " black eye pea soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " fresh farm bowl"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " macaroni and cheese pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " california burger"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " fried chicken",
+                              " biscuits and country gravy",
+                              " sauteed brussels sprouts and purple cabbage",
+                              " sauteed squash medley",
+                              " tempeh marsala"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " caldo de res soup",
+                              " black eye pea soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " nachos bar"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " chicken caesar wrap"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"MUDD",
+               "meals":[
+                  {
+                     "name":"lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              "Hamburger",
+                              "Cheese Burger",
+                              "Black Bean Burger",
+                              "Turkey Burger",
+                              "Grilled Chicken Breast",
+                              "All Beef Hot Dog",
+                              "Grilled Cheese Sandwich",
+                              "French Fries"
+                           ],
+                           "name":"The Grill"
+                        },
+                        {
+                           "items":[
+                              "Toasted Lentil Salad"
+                           ],
+                           "name":"Salad Bar"
+                        },
+                        {
+                           "items":[
+                              "Chocolate Chip Cookies",
+                              "Strawberry Shortcake Pudding Cup",
+                              "Walnut Blondies",
+                              "Raspberry Jell-O Parfaits"
+                           ],
+                           "name":"Desserts"
+                        },
+                        {
+                           "items":[
+                              "Chicken Dopiaza",
+                              "Basmati Rice",
+                              "Steamed Corn",
+                              "Broccoli Spears"
+                           ],
+                           "name":"Chef's Corner"
+                        },
+                        {
+                           "items":[
+                              "Roast Turkey & Rice Soup",
+                              "Creamy Potato & Green Chili Soup",
+                              "Vegetarian Black Bean Soup"
+                           ],
+                           "name":"Soup"
+                        },
+                        {
+                           "items":[
+                              "Beef Pho Noodle Soup"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Cheese Pizza",
+                              "Pepperoni Pizza",
+                              "Spinach & Ricotta Flat Bread Pizza",
+                              "Roasted White Garlic Flatbread Pizza"
+                           ],
+                           "name":"Oven"
+                        },
+                        {
+                           "items":[
+                              "Baked Pasta Torte\u00a0with Parmesan",
+                              "Zucchini & Mushroom Frittata"
+                           ],
+                           "name":"Veggie Valley"
+                        },
+                        {
+                           "items":[
+                              "Assorted Deli Cuts and Assorted Breads"
+                           ],
+                           "name":"Deli Bar"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"breakfast",
+                     "stations":[
+                        {
+                           "items":[
+                              "Plain Bagel",
+                              "Blueberry Sour Cream Coffee Cake",
+                              "Glazed Cinnamon Roll Peanut Butter Chocolate Chip Muffins"
+                           ],
+                           "name":"Hot Breads"
+                        },
+                        {
+                           "items":[
+                              "Oatmeal"
+                           ],
+                           "name":"Hot Cereal"
+                        },
+                        {
+                           "items":[
+                              "Waffle Bar with Assorted Toppings"
+                           ],
+                           "name":"Waffle Station"
+                        },
+                        {
+                           "items":[
+                              "Smoothie Bar"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Scrambled Eggs & Hard Boiled Eggs",
+                              "Blueberry Pancakes",
+                              "Crisp Bacon",
+                              "Sliced Lyonnaise Potatoes",
+                              "Sausage Gravy\u00a0& Biscuits",
+                              "Breakfast Burrito"
+                           ],
+                           "name":"The Grille\nBreakfast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              "Gyro Bar"
+                           ],
+                           "name":"The Grill"
+                        },
+                        {
+                           "items":[
+                              "Toasted Lentil Salad"
+                           ],
+                           "name":"Salad Bar"
+                        },
+                        {
+                           "items":[
+                              "Chocolate Chip Cookies",
+                              "Peach Crisp",
+                              "Raspberry Jell-O Parfait",
+                              "Strawberry Shortcake Pudding Cup",
+                              "Rocky Road Cupcakes"
+                           ],
+                           "name":"Dessert Station"
+                        },
+                        {
+                           "items":[
+                              "Southwest Seasoned Rotisserie Chicken",
+                              "Brown Rice Pilaf",
+                              "Succotash",
+                              "Brussels Sprouts with Onion & Mushroom"
+                           ],
+                           "name":"Chef's Corner"
+                        },
+                        {
+                           "items":[
+                              "Roast Turkey & Rice Soup",
+                              "Creamy Potato & Green Chili Soup",
+                              "Vegetarian Black Bean Soup"
+                           ],
+                           "name":"Soup"
+                        },
+                        {
+                           "items":[
+                              "HMC's Have It Your Way Pasta!"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Spicy Thai Beef Salad"
+                           ],
+                           "name":"Oven"
+                        },
+                        {
+                           "items":[
+                              "Vegetarian Moussaka Casserole",
+                              "Quinoa with Squash Tomatoes and Basil"
+                           ],
+                           "name":"Veggie Valley"
+                        },
+                        {
+                           "items":[
+                              "Assorted Deli Cuts & Bread"
+                           ],
+                           "name":"Deli Bar"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "date":"2013-09-19",
+         "menus":[
+            {
+               "name":"CMC",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " goat cheese",
+                              " olives",
+                              " artichokes &#38",
+                              " pepper pizza",
+                              " cheese &#38",
+                              " pepperoni pizza"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " hominy &#38",
+                              " tortilla topping with queso fresco"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " lentil sloppy Joe"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " onion rings",
+                              " polish hot dog"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " World wok"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " pork chile rojo"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " steak chicken Caesar"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " grilled chicken bean and rice/ rice &#38",
+                              " black vegetable"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Breakfast",
+                     "stations":[
+                        {
+                           "items":[
+                              " scramble egg",
+                              " egg florentine poached eggs on a English muffin",
+                              " hollandaise",
+                              " bacon &#38",
+                              " turkey bacon",
+                              " chili cheese omelet",
+                              " banana pancakes",
+                              " hash browns",
+                              " oatmeal",
+                              " cream of wheat",
+                              " apple bran muffin",
+                              " waffle bar &#38",
+                              " assorted breakfast breads &#38",
+                              " pastries"
+                           ],
+                           "name":"breakfast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " cheese &#38",
+                              " pepperoni pizza",
+                              " assorted flatbread pizzas"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " chef's choice salad"
+                           ],
+                           "name":"salad bar"
+                        },
+                        {
+                           "items":[
+                              " orange sesame tofu with sesame garlic long beans"
+                           ],
+                           "name":"vegetarian @home"
+                        },
+                        {
+                           "items":[
+                              " red quinoa meatless ball",
+                              " sauce on the side"
+                           ],
+                           "name":"vegan"
+                        },
+                        {
+                           "items":[
+                              " onion rings",
+                              " portobello",
+                              " spinach &#38",
+                              " Brie cheese on sourdough"
+                           ],
+                           "name":"collins grill"
+                        },
+                        {
+                           "items":[
+                              " sauteed sizzle!"
+                           ],
+                           "name":"expo"
+                        },
+                        {
+                           "items":[
+                              " Mongolian beef",
+                              " yellow onion",
+                              " green onion",
+                              " cilantro"
+                           ],
+                           "name":"@home"
+                        },
+                        {
+                           "items":[
+                              " BBQ chicken salad"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " Chicken eff drop soup/ vegan pozole"
+                           ],
+                           "name":"stock pot"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dessert",
+                     "stations":[
+                        {
+                           "items":[
+                              " assorted cookies",
+                              " bars &#38",
+                              " cakes",
+                              " frozen yogurt &#38",
+                              " ice cream"
+                           ],
+                           "name":"sweets"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"PITZER",
+               "meals":[
+                  {
+                     "name":"Lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              " california burger"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " herb roasted chicken",
+                              " eggplant and vegetable couscous rolls",
+                              " mushroom and herb risotto",
+                              " sauteed kale",
+                              " sauteed rainbow chard"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " yellow split pea and ham soup",
+                              " cream of mushroom soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " pasta bar"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              " pizza bagels"
+                           ],
+                           "name":"ovens"
+                        },
+                        {
+                           "items":[
+                              " california burger"
+                           ],
+                           "name":"market grill"
+                        },
+                        {
+                           "items":[
+                              " grilled sirloin steak",
+                              " roasted asparagus",
+                              " baked vegetarian chicken",
+                              " roasted fingerling potatoes",
+                              " steamed carrots"
+                           ],
+                           "name":"main plate"
+                        },
+                        {
+                           "items":[
+                              " yellow split pea and ham soup",
+                              " cream of mushroom soup"
+                           ],
+                           "name":"stocks"
+                        },
+                        {
+                           "items":[
+                              " waffle bowl ice cream bar"
+                           ],
+                           "name":"options"
+                        },
+                        {
+                           "items":[
+                              " a.m. in the p.m.",
+                              " make your own waffle bar"
+                           ],
+                           "name":"chef's table"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"MUDD",
+               "meals":[
+                  {
+                     "name":"lunch",
+                     "stations":[
+                        {
+                           "items":[
+                              "Hamburger & Cheeseburgers",
+                              "Chicken Patties",
+                              "Black Bean Burger",
+                              "Turkey Burger",
+                              "Grilled Chicken Breast",
+                              "All Beef Hot Dog",
+                              "Grilled Cheese Sandwich",
+                              "French Fries"
+                           ],
+                           "name":"The Grill"
+                        },
+                        {
+                           "items":[
+                              "Minted Cucumber Salad"
+                           ],
+                           "name":"Salad Bar"
+                        },
+                        {
+                           "items":[
+                              "Chocolate Chip Cookies",
+                              "Oreo Crumble Pudding Cup",
+                              "Golden Grahams S'm-oreos Bars",
+                              "Strawberry Jell-O Parfait"
+                           ],
+                           "name":"Desserts"
+                        },
+                        {
+                           "items":[
+                              "BBQ Chicken Quarters",
+                              "Baked Beans",
+                              "Mexican Medley",
+                              "Macaroni & Cheese",
+                              "Jalapeno Cornbread"
+                           ],
+                           "name":"Chef's Corner"
+                        },
+                        {
+                           "items":[
+                              "Roasted Garden Vegetable Soup",
+                              "Cream of Spinach Soup",
+                              "Chicken Orzo Soup"
+                           ],
+                           "name":"Soup"
+                        },
+                        {
+                           "items":[
+                              "Sizzling Caesar Salad with Chicken"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "French Bread Pizza",
+                              "Sausage Sandwich with Peppers & Onions"
+                           ],
+                           "name":"Oven"
+                        },
+                        {
+                           "items":[
+                              "Curried Tofu with Jasmine Rice",
+                              "Vegetable Fried Rice"
+                           ],
+                           "name":"Veggie Valley"
+                        },
+                        {
+                           "items":[
+                              "Assorted Deli Cuts and Assorted Breads"
+                           ],
+                           "name":"Deli Bar"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"breakfast",
+                     "stations":[
+                        {
+                           "items":[
+                              "Plain Bagel",
+                              "Cobblestones & Petite Croissants",
+                              "Chocolate Chunk Mini Scone Blueberry Muffins"
+                           ],
+                           "name":"Hot Breads"
+                        },
+                        {
+                           "items":[
+                              "Oatmeal"
+                           ],
+                           "name":"Hot Cereal"
+                        },
+                        {
+                           "items":[
+                              "Waffle Bar with Assorted Toppings"
+                           ],
+                           "name":"Waffle Station"
+                        },
+                        {
+                           "items":[
+                              "Smoothie Bar"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Scrambled Eggs & Hard Boiled Eggs",
+                              "Texas French Toast",
+                              "Sausage Patties",
+                              "Tri-Tater Patties",
+                              "Sausage Gravy\u00a0& Biscuits",
+                              "English Muffin with Egg & Cheese"
+                           ],
+                           "name":"The Grille\nBreakfast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"dinner",
+                     "stations":[
+                        {
+                           "items":[
+                              "Burger Bar"
+                           ],
+                           "name":"The Grill"
+                        },
+                        {
+                           "items":[
+                              "Minted Cucumber Salad"
+                           ],
+                           "name":"Salad Bar"
+                        },
+                        {
+                           "items":[
+                              "Chocolate Chip Cookies",
+                              "Pina Colada Cake",
+                              "Strawberry Jell-O Parfait",
+                              "Oreo Crumble Pudding Cup"
+                           ],
+                           "name":"Dessert Station"
+                        },
+                        {
+                           "items":[
+                              "Chicken Parmasan",
+                              "Spaghetti with Olive oil & Garlic",
+                              "Fresh Vegetables"
+                           ],
+                           "name":"Chef's Corner"
+                        },
+                        {
+                           "items":[
+                              "Cream of Spinach",
+                              "Roasted Garden Vegetable Soup",
+                              "Chicken Orzo soup"
+                           ],
+                           "name":"Soup"
+                        },
+                        {
+                           "items":[
+                              "Muddgolian Wok"
+                           ],
+                           "name":"Exhibition"
+                        },
+                        {
+                           "items":[
+                              "Roasted Asian Chicken Salad on Flatbread"
+                           ],
+                           "name":"Oven"
+                        },
+                        {
+                           "items":[
+                              "Eggplant Parmesan"
+                           ],
+                           "name":"Veggie Valley"
+                        },
+                        {
+                           "items":[
+                              "Assorted Deli Cuts & Bread"
+                           ],
+                           "name":"Deli Bar"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

@@ -12,6 +12,7 @@ class MenuXML(db.Model):
 
 class MainPage(webapp2.RequestHandler):
 	def get(self):
+		self.response.headers['Access-Control-Allow-Origin'] = '*'
 		self.response.headers['Content-Type'] = 'text/plain'
 		curr_date = scrape.getDate()
 
@@ -56,6 +57,7 @@ class MainPage(webapp2.RequestHandler):
 
 class Get_JSON(webapp2.RequestHandler):
 	def get(self):
+		self.response.headers['Access-Control-Allow-Origin'] = '*'
 		self.response.headers['Content-Type'] = 'text/plain'
 		curr_date = scrape.getDate()
 
@@ -100,6 +102,7 @@ class Get_JSON(webapp2.RequestHandler):
 
 class Get_XML(webapp2.RequestHandler):
 	def get(self):
+		self.response.headers['Access-Control-Allow-Origin'] = '*'
 		self.response.headers['Content-Type'] = 'text/plain'
 		curr_date = scrape.getDate()
 
