@@ -24,7 +24,7 @@ class MainPage(webapp2.RequestHandler):
 			db_result = MenuXML.get(db.Key.from_path('MenuXML', str(curr_date)))
 
 			# if the database is empty, then parse
-			if db_result == None or str(result.xml)=="None":
+			if db_result == None or str(db_result.xml)=="None":
 				new_xml, new_json = scrape.scrape_all()
 
 				# add to database
