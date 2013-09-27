@@ -1,0 +1,11 @@
+application: 5cmenuparser 
+version: 1-1
+runtime: python27
+api_version: 1
+threadsafe: false
+libraries:
+- name: lxml
+  version: "latest"
+handlers:
+- url: /.*
+  script: main.app

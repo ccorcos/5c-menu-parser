@@ -1,0 +1,4 @@
+-fix dates
+-create settings menu
+-fix back button on no internet screen
+

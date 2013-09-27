@@ -1,0 +1,4 @@
+cron:
+- description: refresh menus every 8 hours
+  url: /update
+  schedule: every 1 hours
