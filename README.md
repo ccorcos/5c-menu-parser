@@ -1,4 +1,4 @@
-5cmenuparser
+5c-menu-parser
 ============
 
 Google App Engine Python program that parses the Claremont dining hall menus.
